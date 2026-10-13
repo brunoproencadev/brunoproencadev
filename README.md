@@ -24,5 +24,5 @@
   <a href="mailto:brunoproencasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/brunoproencasilva"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
   <br>
-  <img src="https://raw.githubusercontent.com/brunoproencadev/brunoproencadev/output/snake.svg" alt="Snake animation" width="530">
+  <img src="https://raw.githubusercontent.com/brunoproencadev/brunoproencadev/output/snake.svg" alt="Snake animation">
 </div>
