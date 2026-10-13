@@ -10,9 +10,9 @@ through hands-on projects and competitive robotics.
 - **Robotics:** RoboCup Junior Soccer competitor & regional champion
 
 <div>
-  <img alt="Claude" height="48" align="middle" src="https://devicons.io/devicons/icons/claude-icon.svg" />&nbsp;
-  <img alt="n8n" height="48" align="middle" src="https://devicons.io/devicons/icons/n8n-icon.svg" />&nbsp;
-  <img alt="Tech Stack" align="middle" src="https://skillicons.dev/icons?i=python,java,spring,arduino" />
+  <img alt="Claude" height="48" align="middle" src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark&titles=false" />&nbsp;
+  <img alt="n8n" height="48" align="middle" src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark&titles=false" />&nbsp;
+  <img alt="Tech Stack" align="middle" src="https://skillicons.dev/icons?i=python,java,spring,arduino&theme=dark" />
 </div>
 
 <hr align="left" width="530">
