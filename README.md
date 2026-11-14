@@ -9,11 +9,13 @@ through hands-on projects and competitive robotics.
 - **AI & Computer Vision:** Python, Machine Learning & OpenCV
 - **Robotics:** RoboCup Junior Soccer competitor & regional champion
 
+
+
 <div>
-  <img alt="Claude" height="48" align="middle" src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark&titles=false" />&nbsp;
-  <img alt="n8n" height="48" align="middle" src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark&titles=false" />&nbsp;
-  <img alt="Tech Stack" align="middle" src="https://skillicons.dev/icons?i=python,java,spring,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,arduino&theme=dark" alt="Python, Java, Spring Boot e Arduino" height="48" align="middle" />
 </div>
+
+
 
 <hr align="left" width="530">
 
