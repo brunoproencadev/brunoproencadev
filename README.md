@@ -9,13 +9,11 @@ through hands-on projects and competitive robotics.
 - **AI & Computer Vision:** Python, Machine Learning & OpenCV
 - **Robotics:** RoboCup Junior Soccer competitor & regional champion
 
-
-
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,arduino&theme=dark" alt="Python, Java, Spring Boot e Arduino" height="48" align="middle" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-auto.svg" alt="Claude" width="48" height="48" align="middle"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/n8n-auto.svg" alt="n8n" width="48" height="48" align="middle" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,java,spring,arduino&theme=dark" alt="Tech Stack" height="48" align="middle"/>
 </div>
-
-
 
 <hr align="left" width="530">
 
